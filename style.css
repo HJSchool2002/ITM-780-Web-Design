@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 12pt;
+    background-color: #d3e9eb;
+    color: #ab9696;
+    margin: 15pt;
+}
+
+h1 {
+    font-size: 24pt;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #2e7d32;
+}
+
+h2 {
+    font-size: 20pt;
+    color: #1565c0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    font-size: 18pt;
+    color: #c62828;
+    font-family: cursive;
+}
+
+p {
+    font-size: 14pt;
+    color: #b94fd3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a:link,
+a:visited {
+    color: #880e4f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4081;
+}
+
+a:active {
+    color: #4a148c;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #080707;
+}
+
+th,
+td {
+    border: 1px solid #000000;
+    padding: 15px;
+    text-align: left;
+}
+.table-cell-text {
+    display: inline-block;
+}
+
+.table-cell-links {
+    display: inline-block;
+    margin-top: 10px;
+}
